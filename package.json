@@ -4,12 +4,15 @@
   "description": "MBer 2019-07-24",
   "main": "01-blink-blink.js",
   "dependencies": {
-    "johnny-five": "^1.3.0",
+    "johnny-five": "^1.4.0",
     "marked": "^0.7.0",
     "nodebot-workshop": "^3.2.1",
     "serialport": "^7.1.5"
   },
   "devDependencies": {},
+  "resolutions": {
+    "minimist": "^1.2.3"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/MBerka/nodebots-firmata-platformio.git"
