@@ -4,7 +4,7 @@
   "description": "MBer 2019-07-24",
   "main": "01-blink-blink.js",
   "dependencies": {
-    "johnny-five": "^1.4.0",
+    "johnny-five": "^1.5.0",
     "marked": "^0.7.0",
     "nodebot-workshop": "^3.2.1",
     "serialport": "^7.1.5"
